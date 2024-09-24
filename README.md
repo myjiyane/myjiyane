@@ -44,8 +44,8 @@ I'm an **Automation Engineer** with a strong background in Python, API integrati
 
 
 🌍 **Let's Connect!**<br>
-* LinkedIn: [Your LinkedIn URL]
-* Email: myjiyane@gmail.com 
+* LinkedIn: [https://www.linkedin.com/in/samintergrationdeveloper/]
+* Email: [myjiyane@gmail.com]
 
   
 <!--
