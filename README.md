@@ -47,7 +47,10 @@ I'm an **Full Stack Engineer** with a strong background in Python, API integrati
 * LinkedIn: [https://www.linkedin.com/in/samintergrationdeveloper/]
 * Email: [myjiyane@gmail.com]
 
-  
+
+📊 GitHub Stats:<br>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=myjiyane&show_icons=true&count_private=true&theme=radical)
+
 <!--
 **myjiyane/myjiyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
