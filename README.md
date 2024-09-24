@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Samkelo Jiyane.
 
 💬**About me** <br><br>
-I'm an **Full Stack Engineer** with a strong background in Python, API integration, and Azure Cloud. I’m passionate about leveraging technology to streamline business processes, optimize workflows, and deliver  
-  efficient solutions.<br><br>
+I'm a **Python Engineer and Automation Analyst** with a strong background in **database, API integration, and Azure Cloud**. I'm passionate about cloud automation and process optimization.<br><br>
 
 👨‍💻 **What I Do** <br>
 * **Full-Stack Development**: Expertise in building RESTful APIs with a deep understanding of efficient data flow, backend services, and scalable architecture.
