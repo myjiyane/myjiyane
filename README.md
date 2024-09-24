@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Samkelo Jiyane. I am Python Automation and Data Engingeer 
 
 <!--
 **myjiyane/myjiyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
